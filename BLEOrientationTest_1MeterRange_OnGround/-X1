@@ -1,0 +1,1081 @@
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001373758
+TX counter (payload): 0
+TX Unix ms (payload): 1764001372994
+Delta = RX_unix_ms - TX_unix_ms: 764 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 00 03 00 00 01 9A B6 AC DB 42 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............B...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001373044
+TX counter (payload): 1
+TX Unix ms (payload): 1764001373267
+Delta = RX_unix_ms - TX_unix_ms: -223 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 01 03 00 00 01 9A B6 AC DC 53 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............S...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001373316
+TX counter (payload): 2
+TX Unix ms (payload): 1764001373543
+Delta = RX_unix_ms - TX_unix_ms: -227 ms
+RSSI: -66 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 02 03 00 00 01 9A B6 AC DD 67 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............g...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001374604
+TX counter (payload): 3
+TX Unix ms (payload): 1764001373839
+Delta = RX_unix_ms - TX_unix_ms: 765 ms
+RSSI: -74 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 03 03 00 00 01 9A B6 AC DE 8F 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001374886
+TX counter (payload): 4
+TX Unix ms (payload): 1764001374133
+Delta = RX_unix_ms - TX_unix_ms: 753 ms
+RSSI: -66 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 04 03 00 00 01 9A B6 AC DF B5 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001375446
+TX counter (payload): 6
+TX Unix ms (payload): 1764001374729
+Delta = RX_unix_ms - TX_unix_ms: 717 ms
+RSSI: -75 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 06 03 00 00 01 9A B6 AC E2 09 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001375009
+TX counter (payload): 8
+TX Unix ms (payload): 1764001375318
+Delta = RX_unix_ms - TX_unix_ms: -309 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 08 03 00 00 01 9A B6 AC E4 56 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............V...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001376854
+TX counter (payload): 11
+TX Unix ms (payload): 1764001376207
+Delta = RX_unix_ms - TX_unix_ms: 647 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 0B 03 00 00 01 9A B6 AC E7 CF 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001376131
+TX counter (payload): 12
+TX Unix ms (payload): 1764001376506
+Delta = RX_unix_ms - TX_unix_ms: -375 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 0C 03 00 00 01 9A B6 AC E8 FA 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001377421
+TX counter (payload): 13
+TX Unix ms (payload): 1764001376796
+Delta = RX_unix_ms - TX_unix_ms: 625 ms
+RSSI: -70 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 0D 03 00 00 01 9A B6 AC EA 1C 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001377279
+TX counter (payload): 16
+TX Unix ms (payload): 1764001377681
+Delta = RX_unix_ms - TX_unix_ms: -402 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 10 03 00 00 01 9A B6 AC ED 91 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001379950
+TX counter (payload): 21
+TX Unix ms (payload): 1764001379160
+Delta = RX_unix_ms - TX_unix_ms: 790 ms
+RSSI: -91 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 15 03 00 00 01 9A B6 AC F3 58 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............X...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001381847
+TX counter (payload): 27
+TX Unix ms (payload): 1764001380922
+Delta = RX_unix_ms - TX_unix_ms: 925 ms
+RSSI: -72 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 1B 03 00 00 01 9A B6 AC FA 3A 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............:...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001381200
+TX counter (payload): 29
+TX Unix ms (payload): 1764001381513
+Delta = RX_unix_ms - TX_unix_ms: -313 ms
+RSSI: -73 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 1D 03 00 00 01 9A B6 AC FC 89 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001382793
+TX counter (payload): 31
+TX Unix ms (payload): 1764001382099
+Delta = RX_unix_ms - TX_unix_ms: 694 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 1F 03 00 00 01 9A B6 AC FE D3 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001382042
+TX counter (payload): 32
+TX Unix ms (payload): 1764001382395
+Delta = RX_unix_ms - TX_unix_ms: -353 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 20 03 00 00 01 9A B6 AC FF FB 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..... ............
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001383887
+TX counter (payload): 35
+TX Unix ms (payload): 1764001383282
+Delta = RX_unix_ms - TX_unix_ms: 605 ms
+RSSI: -66 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 23 03 00 00 01 9A B6 AD 03 72 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....#........r...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== Scan cycle #24 END (elapsed ~70007 ms) ===
+
+
+=== Scan cycle #25 START (SCAN_TIME = 70 s) ===
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001385135
+TX counter (payload): 42
+TX Unix ms (payload): 1764001385340
+Delta = RX_unix_ms - TX_unix_ms: -205 ms
+RSSI: -63 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 2A 03 00 00 01 9A B6 AD 0B 7C 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....*........|...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001386259
+TX counter (payload): 46
+TX Unix ms (payload): 1764001386496
+Delta = RX_unix_ms - TX_unix_ms: -237 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 2E 03 00 00 01 9A B6 AD 10 00 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001387100
+TX counter (payload): 49
+TX Unix ms (payload): 1764001387354
+Delta = RX_unix_ms - TX_unix_ms: -254 ms
+RSSI: -74 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 31 03 00 00 01 9A B6 AD 13 5A 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....1........Z...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001388385
+TX counter (payload): 50
+TX Unix ms (payload): 1764001387640
+Delta = RX_unix_ms - TX_unix_ms: 745 ms
+RSSI: -70 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 32 03 00 00 01 9A B6 AD 14 78 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....2........x...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001388228
+TX counter (payload): 53
+TX Unix ms (payload): 1764001388509
+Delta = RX_unix_ms - TX_unix_ms: -281 ms
+RSSI: -63 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 35 03 00 00 01 9A B6 AD 17 DD 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....5............
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001389513
+TX counter (payload): 54
+TX Unix ms (payload): 1764001388804
+Delta = RX_unix_ms - TX_unix_ms: 709 ms
+RSSI: -74 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 36 03 00 00 01 9A B6 AD 19 04 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....6............
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001389348
+TX counter (payload): 57
+TX Unix ms (payload): 1764001389691
+Delta = RX_unix_ms - TX_unix_ms: -343 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 39 03 00 00 01 9A B6 AD 1C 7B 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....9........{...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001390635
+TX counter (payload): 58
+TX Unix ms (payload): 1764001389989
+Delta = RX_unix_ms - TX_unix_ms: 646 ms
+RSSI: -66 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 3A 03 00 00 01 9A B6 AD 1D A5 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....:............
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001390919
+TX counter (payload): 59
+TX Unix ms (payload): 1764001390283
+Delta = RX_unix_ms - TX_unix_ms: 636 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 3B 03 00 00 01 9A B6 AD 1E CB 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....;............
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001391757
+TX counter (payload): 62
+TX Unix ms (payload): 1764001391174
+Delta = RX_unix_ms - TX_unix_ms: 583 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 3E 03 00 00 01 9A B6 AD 22 46 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....>......."F...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001391038
+TX counter (payload): 63
+TX Unix ms (payload): 1764001391468
+Delta = RX_unix_ms - TX_unix_ms: -430 ms
+RSSI: -73 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 3F 03 00 00 01 9A B6 AD 23 6C 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....?.......#l...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001393444
+TX counter (payload): 67
+TX Unix ms (payload): 1764001392650
+Delta = RX_unix_ms - TX_unix_ms: 794 ms
+RSSI: -72 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 43 03 00 00 01 9A B6 AD 28 0A 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....C.......(....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001393723
+TX counter (payload): 68
+TX Unix ms (payload): 1764001392943
+Delta = RX_unix_ms - TX_unix_ms: 780 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 44 03 00 00 01 9A B6 AD 29 2F 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....D.......)/...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001393005
+TX counter (payload): 69
+TX Unix ms (payload): 1764001393244
+Delta = RX_unix_ms - TX_unix_ms: -239 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 45 03 00 00 01 9A B6 AD 2A 5C 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....E.......*\...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001394960
+TX counter (payload): 72
+TX Unix ms (payload): 1764001394133
+Delta = RX_unix_ms - TX_unix_ms: 827 ms
+RSSI: -75 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 48 03 00 00 01 9A B6 AD 2D D5 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....H.......-....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001394130
+TX counter (payload): 73
+TX Unix ms (payload): 1764001394429
+Delta = RX_unix_ms - TX_unix_ms: -299 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 49 03 00 00 01 9A B6 AD 2E FD 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....I............
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001395414
+TX counter (payload): 74
+TX Unix ms (payload): 1764001394722
+Delta = RX_unix_ms - TX_unix_ms: 692 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 4A 03 00 00 01 9A B6 AD 30 22 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....J.......0"...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001395704
+TX counter (payload): 75
+TX Unix ms (payload): 1764001395017
+Delta = RX_unix_ms - TX_unix_ms: 687 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 4B 03 00 00 01 9A B6 AD 31 49 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....K.......1I...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001395979
+TX counter (payload): 76
+TX Unix ms (payload): 1764001395313
+Delta = RX_unix_ms - TX_unix_ms: 666 ms
+RSSI: -66 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 4C 03 00 00 01 9A B6 AD 32 71 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....L.......2q...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001395256
+TX counter (payload): 77
+TX Unix ms (payload): 1764001395608
+Delta = RX_unix_ms - TX_unix_ms: -352 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 4D 03 00 00 01 9A B6 AD 33 98 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....M.......3....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001396097
+TX counter (payload): 80
+TX Unix ms (payload): 1764001396495
+Delta = RX_unix_ms - TX_unix_ms: -398 ms
+RSSI: -68 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 50 03 00 00 01 9A B6 AD 37 0F 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....P.......7....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001397385
+TX counter (payload): 81
+TX Unix ms (payload): 1764001396791
+Delta = RX_unix_ms - TX_unix_ms: 594 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 51 03 00 00 01 9A B6 AD 38 37 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....Q.......87...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001399610
+TX counter (payload): 87
+TX Unix ms (payload): 1764001398575
+Delta = RX_unix_ms - TX_unix_ms: 1035 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 57 03 00 00 01 9A B6 AD 3F 2F 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....W.......?/...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001399723
+TX counter (payload): 88
+TX Unix ms (payload): 1764001398872
+Delta = RX_unix_ms - TX_unix_ms: 851 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 58 03 00 00 01 9A B6 AD 40 58 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....X.......@X...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001399197
+TX counter (payload): 90
+TX Unix ms (payload): 1764001399461
+Delta = RX_unix_ms - TX_unix_ms: -264 ms
+RSSI: -74 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 5A 03 00 00 01 9A B6 AD 42 A5 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....Z.......B....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001400473
+TX counter (payload): 91
+TX Unix ms (payload): 1764001399758
+Delta = RX_unix_ms - TX_unix_ms: 715 ms
+RSSI: -80 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 5B 03 00 00 01 9A B6 AD 43 CE 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....[.......C....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001400763
+TX counter (payload): 92
+TX Unix ms (payload): 1764001400056
+Delta = RX_unix_ms - TX_unix_ms: 707 ms
+RSSI: -76 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 5C 03 00 00 01 9A B6 AD 44 F8 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....\.......D....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001401603
+TX counter (payload): 95
+TX Unix ms (payload): 1764001400946
+Delta = RX_unix_ms - TX_unix_ms: 657 ms
+RSSI: -73 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 5F 03 00 00 01 9A B6 AD 48 72 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz....._.......Hr...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001402722
+TX counter (payload): 99
+TX Unix ms (payload): 1764001402128
+Delta = RX_unix_ms - TX_unix_ms: 594 ms
+RSSI: -74 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 63 03 00 00 01 9A B6 AD 4D 10 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....c.......M....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001404910
+TX counter (payload): 105
+TX Unix ms (payload): 1764001403897
+Delta = RX_unix_ms - TX_unix_ms: 1013 ms
+RSSI: -66 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 69 03 00 00 01 9A B6 AD 53 F9 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....i.......S....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001404024
+TX counter (payload): 106
+TX Unix ms (payload): 1764001404193
+Delta = RX_unix_ms - TX_unix_ms: -169 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 6A 03 00 00 01 9A B6 AD 55 21 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....j.......U!...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001404267
+TX counter (payload): 107
+TX Unix ms (payload): 1764001404483
+Delta = RX_unix_ms - TX_unix_ms: -216 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 6B 03 00 00 01 9A B6 AD 56 43 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....k.......VC...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001405104
+TX counter (payload): 110
+TX Unix ms (payload): 1764001405327
+Delta = RX_unix_ms - TX_unix_ms: -223 ms
+RSSI: -71 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 6E 03 00 00 01 9A B6 AD 59 8F 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....n.......Y....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001406390
+TX counter (payload): 111
+TX Unix ms (payload): 1764001405604
+Delta = RX_unix_ms - TX_unix_ms: 786 ms
+RSSI: -71 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 6F 03 00 00 01 9A B6 AD 5A A4 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....o.......Z....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001406663
+TX counter (payload): 112
+TX Unix ms (payload): 1764001405889
+Delta = RX_unix_ms - TX_unix_ms: 774 ms
+RSSI: -75 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 70 03 00 00 01 9A B6 AD 5B C1 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....p.......[....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001406257
+TX counter (payload): 114
+TX Unix ms (payload): 1764001406472
+Delta = RX_unix_ms - TX_unix_ms: -215 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 72 03 00 00 01 9A B6 AD 5E 08 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....r.......^....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001407350
+TX counter (payload): 118
+TX Unix ms (payload): 1764001407647
+Delta = RX_unix_ms - TX_unix_ms: -297 ms
+RSSI: -63 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 76 03 00 00 01 9A B6 AD 62 9F 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....v.......b....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001408061
+TX counter (payload): 120
+TX Unix ms (payload): 1764001408234
+Delta = RX_unix_ms - TX_unix_ms: -173 ms
+RSSI: -70 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 78 03 00 00 01 9A B6 AD 64 EA 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....x.......d....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001409476
+TX counter (payload): 122
+TX Unix ms (payload): 1764001408820
+Delta = RX_unix_ms - TX_unix_ms: 656 ms
+RSSI: -66 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 7A 03 00 00 01 9A B6 AD 67 34 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....z.......g4...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001409769
+TX counter (payload): 123
+TX Unix ms (payload): 1764001409113
+Delta = RX_unix_ms - TX_unix_ms: 656 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 7B 03 00 00 01 9A B6 AD 68 59 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....{.......hY...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001409042
+TX counter (payload): 124
+TX Unix ms (payload): 1764001409404
+Delta = RX_unix_ms - TX_unix_ms: -362 ms
+RSSI: -63 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 7C 03 00 00 01 9A B6 AD 69 7C 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....|.......i|...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001410489
+TX counter (payload): 125
+TX Unix ms (payload): 1764001409696
+Delta = RX_unix_ms - TX_unix_ms: 793 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 7D 03 00 00 01 9A B6 AD 6A A0 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....}.......j....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001410605
+TX counter (payload): 126
+TX Unix ms (payload): 1764001409989
+Delta = RX_unix_ms - TX_unix_ms: 616 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 7E 03 00 00 01 9A B6 AD 6B C5 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.....~.......k....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001410895
+TX counter (payload): 127
+TX Unix ms (payload): 1764001410282
+Delta = RX_unix_ms - TX_unix_ms: 613 ms
+RSSI: -76 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 7F 03 00 00 01 9A B6 AD 6C EA 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............l....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001410169
+TX counter (payload): 128
+TX Unix ms (payload): 1764001410584
+Delta = RX_unix_ms - TX_unix_ms: -415 ms
+RSSI: -66 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 80 03 00 00 01 9A B6 AD 6E 18 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............n....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001411635
+TX counter (payload): 129
+TX Unix ms (payload): 1764001410877
+Delta = RX_unix_ms - TX_unix_ms: 758 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 81 03 00 00 01 9A B6 AD 6F 3D 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............o=...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001411750
+TX counter (payload): 130
+TX Unix ms (payload): 1764001411169
+Delta = RX_unix_ms - TX_unix_ms: 581 ms
+RSSI: -63 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 82 03 00 00 01 9A B6 AD 70 61 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............pa...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001413692
+TX counter (payload): 136
+TX Unix ms (payload): 1764001412933
+Delta = RX_unix_ms - TX_unix_ms: 759 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 88 03 00 00 01 9A B6 AD 77 45 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............wE...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001413975
+TX counter (payload): 137
+TX Unix ms (payload): 1764001413226
+Delta = RX_unix_ms - TX_unix_ms: 749 ms
+RSSI: -68 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 89 03 00 00 01 9A B6 AD 78 6A 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............xj...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001413262
+TX counter (payload): 138
+TX Unix ms (payload): 1764001413520
+Delta = RX_unix_ms - TX_unix_ms: -258 ms
+RSSI: -70 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 8A 03 00 00 01 9A B6 AD 79 90 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............y....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001414582
+TX counter (payload): 139
+TX Unix ms (payload): 1764001413814
+Delta = RX_unix_ms - TX_unix_ms: 768 ms
+RSSI: -63 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 8B 03 00 00 01 9A B6 AD 7A B6 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............z....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001414991
+TX counter (payload): 140
+TX Unix ms (payload): 1764001414108
+Delta = RX_unix_ms - TX_unix_ms: 883 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 8C 03 00 00 01 9A B6 AD 7B DC 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............{....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001414108
+TX counter (payload): 141
+TX Unix ms (payload): 1764001414403
+Delta = RX_unix_ms - TX_unix_ms: -295 ms
+RSSI: -68 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 8D 03 00 00 01 9A B6 AD 7D 03 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............}....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001415383
+TX counter (payload): 142
+TX Unix ms (payload): 1764001414702
+Delta = RX_unix_ms - TX_unix_ms: 681 ms
+RSSI: -72 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 8E 03 00 00 01 9A B6 AD 7E 2E 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz.............~....
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001415948
+TX counter (payload): 144
+TX Unix ms (payload): 1764001415289
+Delta = RX_unix_ms - TX_unix_ms: 659 ms
+RSSI: -74 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 90 03 00 00 01 9A B6 AD 80 79 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............y...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001415228
+TX counter (payload): 145
+TX Unix ms (payload): 1764001415581
+Delta = RX_unix_ms - TX_unix_ms: -353 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 91 03 00 00 01 9A B6 AD 81 9D 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001416074
+TX counter (payload): 148
+TX Unix ms (payload): 1764001416475
+Delta = RX_unix_ms - TX_unix_ms: -401 ms
+RSSI: -63 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 94 03 00 00 01 9A B6 AD 85 1B 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001416351
+TX counter (payload): 149
+TX Unix ms (payload): 1764001416774
+Delta = RX_unix_ms - TX_unix_ms: -423 ms
+RSSI: -72 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 95 03 00 00 01 9A B6 AD 86 46 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............F...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001417635
+TX counter (payload): 150
+TX Unix ms (payload): 1764001417068
+Delta = RX_unix_ms - TX_unix_ms: 567 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 96 03 00 00 01 9A B6 AD 87 6C 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............l...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001418316
+TX counter (payload): 155
+TX Unix ms (payload): 1764001418543
+Delta = RX_unix_ms - TX_unix_ms: -227 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 9B 03 00 00 01 9A B6 AD 8D 2F 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz............../...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001419888
+TX counter (payload): 157
+TX Unix ms (payload): 1764001419137
+Delta = RX_unix_ms - TX_unix_ms: 751 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 9D 03 00 00 01 9A B6 AD 8F 81 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001419217
+TX counter (payload): 158
+TX Unix ms (payload): 1764001419435
+Delta = RX_unix_ms - TX_unix_ms: -218 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 9E 03 00 00 01 9A B6 AD 90 AB 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001420447
+TX counter (payload): 159
+TX Unix ms (payload): 1764001419733
+Delta = RX_unix_ms - TX_unix_ms: 714 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 9F 03 00 00 01 9A B6 AD 91 D5 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001420006
+TX counter (payload): 161
+TX Unix ms (payload): 1764001420324
+Delta = RX_unix_ms - TX_unix_ms: -318 ms
+RSSI: -68 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 A1 03 00 00 01 9A B6 AD 94 24 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............$...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001420288
+TX counter (payload): 162
+TX Unix ms (payload): 1764001420619
+Delta = RX_unix_ms - TX_unix_ms: -331 ms
+RSSI: -70 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 A2 03 00 00 01 9A B6 AD 95 4B 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............K...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001421571
+TX counter (payload): 163
+TX Unix ms (payload): 1764001420913
+Delta = RX_unix_ms - TX_unix_ms: 658 ms
+RSSI: -77 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 A3 03 00 00 01 9A B6 AD 96 71 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............q...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001421853
+TX counter (payload): 164
+TX Unix ms (payload): 1764001421211
+Delta = RX_unix_ms - TX_unix_ms: 642 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 A4 03 00 00 01 9A B6 AD 97 9B 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001422695
+TX counter (payload): 167
+TX Unix ms (payload): 1764001422100
+Delta = RX_unix_ms - TX_unix_ms: 595 ms
+RSSI: -68 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 A7 03 00 00 01 9A B6 AD 9B 14 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001422259
+TX counter (payload): 169
+TX Unix ms (payload): 1764001422690
+Delta = RX_unix_ms - TX_unix_ms: -431 ms
+RSSI: -73 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 A9 03 00 00 01 9A B6 AD 9D 62 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............b...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001424940
+TX counter (payload): 174
+TX Unix ms (payload): 1764001424167
+Delta = RX_unix_ms - TX_unix_ms: 773 ms
+RSSI: -72 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 AE 03 00 00 01 9A B6 AD A3 27 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............'...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001424221
+TX counter (payload): 175
+TX Unix ms (payload): 1764001424468
+Delta = RX_unix_ms - TX_unix_ms: -247 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 AF 03 00 00 01 9A B6 AD A4 54 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............T...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001425507
+TX counter (payload): 176
+TX Unix ms (payload): 1764001424754
+Delta = RX_unix_ms - TX_unix_ms: 753 ms
+RSSI: -68 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 B0 03 00 00 01 9A B6 AD A5 72 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............r...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001426652
+TX counter (payload): 180
+TX Unix ms (payload): 1764001425893
+Delta = RX_unix_ms - TX_unix_ms: 759 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 B4 03 00 00 01 9A B6 AD A9 E5 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001426189
+TX counter (payload): 182
+TX Unix ms (payload): 1764001426459
+Delta = RX_unix_ms - TX_unix_ms: -270 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 B6 03 00 00 01 9A B6 AD AC 1B 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001427479
+TX counter (payload): 183
+TX Unix ms (payload): 1764001426729
+Delta = RX_unix_ms - TX_unix_ms: 750 ms
+RSSI: -68 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 B7 03 00 00 01 9A B6 AD AD 29 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............)...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001427753
+TX counter (payload): 184
+TX Unix ms (payload): 1764001427003
+Delta = RX_unix_ms - TX_unix_ms: 750 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 B8 03 00 00 01 9A B6 AD AE 3B 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............;...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001427319
+TX counter (payload): 186
+TX Unix ms (payload): 1764001427594
+Delta = RX_unix_ms - TX_unix_ms: -275 ms
+RSSI: -69 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 BA 03 00 00 01 9A B6 AD B0 8A 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001429441
+TX counter (payload): 190
+TX Unix ms (payload): 1764001428777
+Delta = RX_unix_ms - TX_unix_ms: 664 ms
+RSSI: -64 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 BE 03 00 00 01 9A B6 AD B5 29 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..............)...
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001429289
+TX counter (payload): 193
+TX Unix ms (payload): 1764001429673
+Delta = RX_unix_ms - TX_unix_ms: -384 ms
+RSSI: -67 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 C1 03 00 00 01 9A B6 AD B8 A9 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001430575
+TX counter (payload): 194
+TX Unix ms (payload): 1764001429969
+Delta = RX_unix_ms - TX_unix_ms: 606 ms
+RSSI: -72 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 C2 03 00 00 01 9A B6 AD B9 D1 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
+
+=== TARGET BLE DEVICE DETECTED ===
+RX Unix ms (ESP32): 1764001430137
+TX counter (payload): 196
+TX Unix ms (payload): 1764001430557
+Delta = RX_unix_ms - TX_unix_ms: -420 ms
+RSSI: -65 dBm
+Raw AD Payload (hex): 08 09 41 37 32 41 7A 69 7A 0E FF FF FF 00 C4 03 00 00 01 9A B6 AD BC 1D 02 0A 01
+Raw AD Payload (ASCII): ..A72Aziz..................
+Tx Power (AD 0x0A): 1 dBm
+Tx Power level code (payload): 3  (0=ULTRA_LOW,1=LOW,2=MEDIUM,3=HIGH)
