@@ -32,6 +32,8 @@ def serial_reader(port, baud, max_points, data_lock, counters, rssis, stop_flag)
 
             line = line_bytes.decode(errors="ignore").strip()
 
+            print(line)
+
             m_c = COUNTER_RE.search(line)
             if m_c:
                 current_counter = int(m_c.group(1))
