@@ -18,6 +18,8 @@ https://www.scribd.com/document/586286362/Samsung-A72-SM-A725F-Schematic-Phonesc
 
 https://documentation.espressif.com/esp32-wroom-32_datasheet_en.pdf
 
+https://en.wikipedia.org/wiki/Two-ray_ground-reflection_model
+
 https://en.wikipedia.org/wiki/Polarization_(waves)
 
 https://en.wikipedia.org/wiki/Dipole_antenna
