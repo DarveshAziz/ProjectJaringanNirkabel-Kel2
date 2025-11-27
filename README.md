@@ -6,6 +6,8 @@ Darvesh Aziz Mawla 	       / 235150201111036
 
 Joshua Washington Hutasoit / 235150207111043
 
+Nauval Rusdi Aslam         / 235150207111030
+
 # Referensi
 
 https://chatgpt.com/share/69207b0c-f490-8003-b921-bebf98fdfd03
